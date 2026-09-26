@@ -1,6 +1,6 @@
 Guida per configurare **Insignia** sulla prima Xbox e giocare online ai titoli supportati usando il menu **Xbox Live**.
 
-Ormai la Xbox Classic ha parecchi anni sulle spalle e i vecchi servizi Xbox Live non sono più disponibili. Grazie a **Insignia**, un progetto gratuito gestito dalla community, possiamo tornare a utilizzare le funzionalità online dei giochi supportati e giocare nuovamente insieme. <br>
+Ormai la Xbox Classic ha parecchi anni sulle spalle e i vecchi servizi Xbox Live non sono più disponibili. Grazie a **Insignia**, un progetto gratuito gestito dalla community, possiamo tornare a utilizzare le funzionalità online e giochi supportati. <br>
 <br>
 In questa guida partiamo da una **Xbox già modificata**, capace di avviare applicazioni homebrew e collegarsi al PC tramite FTP.
 
