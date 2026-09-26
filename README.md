@@ -14,8 +14,7 @@ In questa guida partiamo da una **Xbox già modificata**, capace di avviare appl
 | **Insignia Setup Assistant** | [Download](https://github.com/insignia-live/setup-assistant-release/releases/latest) | Scarica `default.xbe` per console modificate |
 | **FileZilla Client** | [Download](https://filezilla-project.org/) | Per trasferire il programma sulla Xbox |
 | **Insignia** | [Sito ufficiale](https://insignia.live/) | Per richiedere gratuitamente il codice di registrazione |
-| **Dashboard Microsoft** | Già presente sulla console, se installata | Versione `D:1.00.5960.01` |
-| **Xbox, PC e router** | — | Xbox collegata via cavo Ethernet e PC sulla stessa rete |
+| **WinSCP** | [Download](https://winscp.net/eng/download.php) | Alternativa a FileZilla |
 
 **1. Controllare la dashboard Microsoft**
 
