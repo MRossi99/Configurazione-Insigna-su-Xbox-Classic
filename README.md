@@ -35,7 +35,7 @@ In questa guida partiamo da una **Xbox già modificata**, capace di avviare appl
 | Host | Indirizzo IP locale della Xbox |
 | Nome utente | Utente FTP configurato nella dashboard |
 | Password | Password FTP configurata nella dashboard |
-| Porta | `21`, salvo una configurazione diversa |
+| Porta | `21` |
 
 - Premi **Connessione rapida**. Nel pannello remoto dovresti vedere le partizioni della console, tra cui **C:** ed **E:**.
 - Per conservare una copia dei tuoi dati, crea sul PC una cartella di backup e trascinaci il contenuto di C: ed E:. Attendi che i trasferimenti siano terminati.
@@ -70,7 +70,7 @@ E:\Apps\Insignia\default.xbe
 | DNS primario | `46.101.64.175` |
 | DNS secondario | `8.8.8.8` |
 
-- Salva ed esegui il **test della connessione**. [1]
+- Salva ed esegui il **test della connessione**.
 
 > [!NOTE]
 > Se tornando alla dashboard modificata i DNS cambiano, controlla che questa non sovrascriva le impostazioni Microsoft. Rocky5 propone anche **UnleashX Network Patched**, che conserva la configurazione di rete Microsoft. [4]
