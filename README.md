@@ -1,4 +1,4 @@
-# Tornare online sulla Xbox Classic con Insignia.
+0# Tornare online sulla Xbox Classic con Insignia.
 
 Guida per configurare **Insignia** sulla prima Xbox e giocare online ai titoli supportati usando il menu **Xbox Live**.
 
@@ -71,7 +71,7 @@ E:\Apps\Insignia\default.xbe
 | Campo | Valore |
 | :--- | :--- |
 | DNS primario | `46.101.64.175` |
-| DNS secondario | `1.1.1.1` |
+| DNS secondario | `8.8.8.8` |
 
 - Salva ed esegui il **test della connessione**. [1]
 
@@ -108,15 +108,7 @@ Ora avrai terminato la configurazione: scegli un gioco supportato e goditi nuova
 - Se la tua connessione usa **CGNAT**, il solo inoltro sul router potrebbe non bastare: chiedi al provider quali opzioni offre per un indirizzo IPv4 pubblico. [2]
 - Se **Halo 2** segnala un errore nell'aggiornamento dei file del matchmaking, apri l'Insignia Assistant e usa **Empty Ticket Cache**, come spiegato nella [guida alla cache](https://insignia.live/guide/cache). [3]
 
-<details>
-  <summary>📚 Fonti e documentazione</summary>
 
-Indicazioni verificate il **26 settembre 2026**.
-
-1. [Insignia Team — Getting Connected](https://insignia.live/guide/connect). Istruzioni di connessione sintetizzate e adattate dalla guida ufficiale, pubblicata con licenza [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); le parti adattate sono distribuite con la stessa licenza.
-2. [Insignia — NAT](https://insignia.live/guide/nat)
-3. [Insignia — ticket cache](https://insignia.live/guide/cache)
-4. [Rocky5 — Extras Disc](https://github.com/Rocky5/Xbox-Softmodding-Tool) e [menu hardmod](https://github.com/Rocky5/Xbox-Softmodding-Tool/blob/master/Extras%20Disc/hardmod.xml)
 5. [Insignia Setup Assistant](https://github.com/insignia-live/setup-assistant-release)
 6. [Insignia — giochi supportati](https://insignia.live/games)
 
