@@ -40,7 +40,7 @@ In questa guida partiamo da una **Xbox già modificata**, capace di avviare appl
 - Premi **Connessione rapida**. Nel pannello remoto dovresti vedere le partizioni della console, tra cui **C:** ed **E:**.
 - Per conservare una copia dei tuoi dati, crea sul PC una cartella di backup e trascinaci il contenuto di C: ed E:. Attendi che i trasferimenti siano terminati.
 
-> Se FileZilla non si collega, ricontrolla IP, credenziali e server FTP. Lascia aperta la dashboard modificata mentre trasferisci i file: passando a un'altra applicazione il suo server FTP potrebbe chiudersi.
+> Se FileZilla o WinSCP non si collegano, ricontrolla IP, credenziali e server FTP. Lascia aperta la dashboard modificata mentre trasferisci i file, non cambiare finestra.
 
 **3. Inserire Insignia Setup Assistant nella Xbox**
 
