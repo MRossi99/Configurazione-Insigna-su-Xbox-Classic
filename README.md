@@ -21,7 +21,7 @@ In questa guida partiamo da una **Xbox già modificata**, capace di avviare appl
 - Accendi la Xbox e apri **MS Dashboard** dalla dashboard modificata.
 - Vai su **Impostazioni → Informazioni di sistema** e attendi la versione indicata nella tabella.
 
-> Se manca, gli [Extras Disc di Rocky5](https://github.com/Rocky5/Xbox-Softmodding-Tool) includono l'installazione della dashboard Microsoft. Sulla console con modchip verifica il riconoscimento **hardmodded**, poi usa **Dashboards → MS Dashboards → Install**. Prima salva C: ed E: sul PC, come spiegato al punto 2: questa installazione modifica file su C:. Leggi le conferme e scegli soltanto la funzione dedicata alla dashboard Microsoft. [4]
+> Se manca, gli [Extras Disc di Rocky5](https://github.com/Rocky5/Xbox-Softmodding-Tool) includono l'installazione della dashboard Microsoft. Sulla console con modchip verifica il riconoscimento **hardmodded**, poi usa **Dashboards → MS Dashboards → Install**. Prima salva C: ed E: sul PC, come spiegato al punto 2: questa installazione modifica file su C:. Leggi le conferme e scegli soltanto la funzione dedicata alla dashboard Microsoft.
 
 **2. Collegare la Xbox al PC**
 
@@ -70,10 +70,11 @@ E:\Apps\Insignia\default.xbe
 | DNS primario | `46.101.64.175` |
 | DNS secondario | `8.8.8.8` |
 
+- Se necessario, inseriscili anche nella dashboard modificata.
 - Salva ed esegui il **test della connessione**.
 
 > [!NOTE]
-> Se tornando alla dashboard modificata i DNS cambiano, controlla che questa non sovrascriva le impostazioni Microsoft. Rocky5 propone anche **UnleashX Network Patched**, che conserva la configurazione di rete Microsoft. [4]
+> Se tornando alla dashboard modificata i DNS cambiano, controlla che questa non sovrascriva le impostazioni Microsoft. Rocky5 propone anche **UnleashX Network Patched**, che conserva la configurazione di rete Microsoft.
 
 **5. Creare il Gamertag** <br>
 *Ora creiamo l'account per giocare online.*
@@ -82,7 +83,7 @@ E:\Apps\Insignia\default.xbe
 - Nella dashboard Microsoft avvia la registrazione Xbox Live, scegli paese e Gamertag e inserisci il codice.
 - Usa **la stessa email** della richiesta.
 - Se vengono chiesti dati di pagamento, usa dati fittizi e il numero di prova `4111 1111 1111 1111`, indicato da Insignia. **Non inserire una carta reale.**
-- Completa l'attivazione e imposta il PIN. [1]
+- Completa l'attivazione e imposta il PIN.
 
 **6. Entrare in partita**
 
@@ -101,6 +102,5 @@ Ora avrai terminato la configurazione: scegli un gioco supportato e goditi nuova
 
 - Controlla il **NAT** seguendo la [guida ufficiale](https://insignia.live/guide/nat). Molte partite collegano direttamente le console tra loro: riuscire ad accedere al servizio non garantisce di poter raggiungere tutti i giocatori.
 - Con una sola Xbox, Insignia indica l'inoltro della porta **UDP 3074** verso l'IP locale della console. Se lo imposti, assegna alla Xbox una prenotazione DHCP sul router per mantenere stabile quell'indirizzo.
-- Con più Xbox nella stessa rete, valuta **UPnP** secondo le indicazioni ufficiali.
-- Se la tua connessione usa **CGNAT**, il solo inoltro sul router potrebbe non bastare: chiedi al provider quali opzioni offre per un indirizzo IPv4 pubblico. [2]
-- Se **Halo 2** segnala un errore nell'aggiornamento dei file del matchmaking, apri l'Insignia Assistant e usa **Empty Ticket Cache**, come spiegato nella [guida alla cache](https://insignia.live/guide/cache). [3]
+- Se **Halo 2** segnala un errore nell'aggiornamento dei file del matchmaking, apri l'Insignia Assistant e usa **Empty Ticket Cache**, come spiegato nella [guida alla cache](https://insignia.live/guide/cache).
+- Per giocare a **Phantasy Star Online Episode 1&2** bisogna selezionare il server nella pagina ufficiale di Insigna [Qui](https://insignia.live/games/4d53004a).
