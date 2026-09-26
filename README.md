@@ -104,9 +104,3 @@ Ora avrai terminato la configurazione: scegli un gioco supportato e goditi nuova
 - Con più Xbox nella stessa rete, valuta **UPnP** secondo le indicazioni ufficiali.
 - Se la tua connessione usa **CGNAT**, il solo inoltro sul router potrebbe non bastare: chiedi al provider quali opzioni offre per un indirizzo IPv4 pubblico. [2]
 - Se **Halo 2** segnala un errore nell'aggiornamento dei file del matchmaking, apri l'Insignia Assistant e usa **Empty Ticket Cache**, come spiegato nella [guida alla cache](https://insignia.live/guide/cache). [3]
-
-
-5. [Insignia Setup Assistant](https://github.com/insignia-live/setup-assistant-release)
-6. [Insignia — giochi supportati](https://insignia.live/games)
-
-</details>
