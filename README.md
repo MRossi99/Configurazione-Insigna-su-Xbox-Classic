@@ -1,5 +1,3 @@
-0# Tornare online sulla Xbox Classic con Insignia.
-
 Guida per configurare **Insignia** sulla prima Xbox e giocare online ai titoli supportati usando il menu **Xbox Live**.
 
 Ormai la Xbox Classic ha parecchi anni sulle spalle e i vecchi servizi Xbox Live non sono più disponibili. Grazie a **Insignia**, un progetto gratuito gestito dalla community, possiamo tornare a utilizzare le funzionalità online dei giochi supportati e giocare nuovamente insieme. <br>
