@@ -63,7 +63,7 @@ E:\Apps\Insignia\default.xbe
 
 - Nell'Assistant seleziona **Register Xbox**. In caso di errore usa **Troubleshoot**.
 - Torna alla dashboard Microsoft e apri le impostazioni di rete Xbox Live.
-- Usa **IP automatico** se il router offre DHCP e imposta i **DNS manuali**:
+- Imposta i **DNS manuali**:
 
 | Campo | Valore |
 | :--- | :--- |
