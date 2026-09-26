@@ -28,7 +28,7 @@ In questa guida partiamo da una **Xbox già modificata**, capace di avviare appl
 - Collega la Xbox al router con un **cavo Ethernet**.
 - Collega anche il PC alla stessa rete; sul PC puoi usare Ethernet oppure Wi-Fi.
 - Nelle impostazioni della dashboard modificata abilita il server **FTP** e annota l'indirizzo IP della Xbox.
-- Apri **FileZilla Client** sul PC e inserisci i dati della console:
+- Apri **FileZilla Client o WinSCP** sul PC e inserisci i dati della console:
 
 | Campo | Cosa inserire |
 | :--- | :--- |
@@ -103,4 +103,4 @@ Ora avrai terminato la configurazione: scegli un gioco supportato e goditi nuova
 - Controlla il **NAT** seguendo la [guida ufficiale](https://insignia.live/guide/nat). Molte partite collegano direttamente le console tra loro: riuscire ad accedere al servizio non garantisce di poter raggiungere tutti i giocatori.
 - Con una sola Xbox, Insignia indica l'inoltro della porta **UDP 3074** verso l'IP locale della console. Se lo imposti, assegna alla Xbox una prenotazione DHCP sul router per mantenere stabile quell'indirizzo.
 - Se **Halo 2** segnala un errore nell'aggiornamento dei file del matchmaking, apri l'Insignia Assistant e usa **Empty Ticket Cache**, come spiegato nella [guida alla cache](https://insignia.live/guide/cache).
-- Per giocare a **Phantasy Star Online Episode 1&2** bisogna selezionare il server nella pagina ufficiale di Insigna [Qui](https://insignia.live/games/4d53004a).
+- Per giocare a **Phantasy Star Online Episode 1&2** bisogna selezionare il server nella pagina ufficiale di Insigna [qui](https://insignia.live/games/4d53004a).
